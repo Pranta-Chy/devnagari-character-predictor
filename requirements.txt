@@ -1,5 +1,5 @@
-streamlit==1.37.0
-tensorflow==2.15.0
+streamlit
+tensorflow
 pillow
 numpy
 plotly
